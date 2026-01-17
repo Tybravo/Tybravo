@@ -1,7 +1,7 @@
 
-● Sofware Engineering Profile
+● Software Engineering Profile
 
-I am a goal-oriented, detail-driven Software Engineer with a strong focus on backend engineering and blockchain development plus good knowledge of frontend development. I specialize in bridging Web2 systems with Web3 infrastructure, building reliable, secure, and scalable solutions that solve real-world problems.
+I am a goal-oriented, detail-driven Software Engineer with a strong focus on backend engineering and blockchain development, plus good knowledge of frontend development. I specialize in bridging Web2 systems with Web3 infrastructure, building reliable, secure, and scalable solutions that solve real-world problems.
 
 I approach software engineering with clarity, structure, and long-term maintainability in mind. My work emphasizes clean code, thoughtful system design, and collaborative development, especially in open-source and team-driven environments.
 
