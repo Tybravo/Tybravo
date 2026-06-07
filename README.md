@@ -2,9 +2,9 @@
 
 I am a goal-oriented and detail-driven Software Engineer with a strong focus on frontend engineering and blockchain development, complemented by practical backend development experience.
 
-I specialize in bridging Web2 systems with Web3 infrastructure, building reliable, secure, and scalable solutions that solve real-world problems.
+I specialise in bridging Web2 systems with Web3 infrastructure, building reliable, secure, and scalable solutions that solve real-world problems.
 
-My engineering approach emphasizes clarity, maintainability, clean architecture, and collaborative development. I enjoy working on challenging systems, contributing to open-source projects, and building technology that delivers long-term value.
+My engineering approach emphasises clarity, maintainability, clean architecture, and collaborative development. I enjoy working on challenging systems, contributing to open-source projects, and building technology that delivers long-term value.
 
 ---
 
@@ -35,7 +35,7 @@ My engineering approach emphasizes clarity, maintainability, clean architecture,
 
 - Frontend and API engineering
 - Blockchain and smart contract development
-- Database design and data modeling
+- Database design and data modelling
 - Secure and reliable system architecture
 - Web2 ↔ Web3 integration
 
