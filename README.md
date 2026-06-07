@@ -1,6 +1,6 @@
 # Software Engineering Profile
 
-I am a goal-oriented and detail-driven Software Engineer with a strong focus on backend engineering and blockchain development, complemented by practical frontend development experience.
+I am a goal-oriented and detail-driven Software Engineer with a strong focus on frontend engineering and blockchain development, complemented by practical backend development experience.
 
 I specialize in bridging Web2 systems with Web3 infrastructure, building reliable, secure, and scalable solutions that solve real-world problems.
 
@@ -10,7 +10,7 @@ My engineering approach emphasizes clarity, maintainability, clean architecture,
 
 ## What I Focus On
 
-- Scalable backend systems and API design
+- Scalable frontend with some backend systems and API design
 - Blockchain applications and smart contract development
 - Web2 ↔ Web3 system integration
 - Clean, testable, and maintainable software
@@ -22,6 +22,7 @@ My engineering approach emphasizes clarity, maintainability, clean architecture,
 
 ### Languages & Frameworks
 
+- JavaScript
 - Java
 - Node.js
 - TypeScript
@@ -32,7 +33,7 @@ My engineering approach emphasizes clarity, maintainability, clean architecture,
 
 ### Core Strengths
 
-- Backend and API engineering
+- Frontend and API engineering
 - Blockchain and smart contract development
 - Database design and data modeling
 - Secure and reliable system architecture
